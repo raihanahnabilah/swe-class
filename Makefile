@@ -1,4 +1,4 @@
-TTARGET=Hello
+TARGET=Hello
 
 all: ${TARGET}.class
 
